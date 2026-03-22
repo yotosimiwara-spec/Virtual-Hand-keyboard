@@ -20,5 +20,9 @@ Download and run the executable from the Releases section:
 5.Python
 6.Pygame
 7.Notes
-
+IMPORTANT NOTE!!!!
+The executable will only terminate if you follow the following steps
+1. Go to task manager (ctrl + shift + esc)
+2. go to virtual keyboardd.py
+3. end task
 P.S. This is a prototype version (v1.0), so features are limited and may be improved in future updates.
